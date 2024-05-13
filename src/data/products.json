@@ -1,0 +1,130 @@
+[
+  {
+    "category": "Furniture",
+    "description": "Handmade stool",
+    "id": "0",
+    "image": "image-url/product1.jpg",
+    "name": "GRAMPS",
+    "price": 750,
+    "url": "https://elibuilds-998b8-default-rtdb.firebaseio.com/0.json",
+    "customFields": [
+      {
+        "name": "Type",
+        "options": "singleStain[+150]|mixedStain[+150]|mixedStainPaint[+150]|mixedPaint[+50]|singlePaint",
+        "type": "readonly"
+      }
+    ]
+  },
+  {
+    "category": "Furniture",
+    "description": "Handmade end table",
+    "id": "1",
+    "image": "image-url/product2.jpg",
+    "name": "SQUATTER",
+    "price": 600,
+    "url": "https://elibuilds-998b8-default-rtdb.firebaseio.com/1.json",
+    "customFields": [
+      {
+        "name": "Type",
+        "options": "singleStain[+100]|mixedStain[+100]|mixedStainPaint[+100]|mixedPaint[+50]|singlePaint",
+        "type": "readonly"
+      }
+    ]
+  },
+  {
+    "category": "Category",
+    "description": "Handmade room block",
+    "id": "2",
+    "image": "image-url/product3.jpg",
+    "name": "BLOCK",
+    "price": 250,
+    "url": "https://elibuilds-998b8-default-rtdb.firebaseio.com/2.json",
+    "customFields": [
+      {
+        "name": "Type",
+        "options": "singleStain[+150]|mixedStain[+150]|mixedStainPaint[+150]|mixedPaint[+50]|singlePaint",
+        "type": "readonly"
+      }
+    ]
+  },
+  {
+    "category": "Furniture",
+    "description": "Handmade saw horse",
+    "id": "3",
+    "image": "image-url/product4.jpg",
+    "name": "HORSE",
+    "price": 400,
+    "url": "https://elibuilds-998b8-default-rtdb.firebaseio.com/3.json",
+    "customFields": [
+      {
+        "name": "Type",
+        "options": "singleStain[+100]|mixedStain[+100]|mixedStainPaint[+100]|mixedPaint[+50]|singlePaint",
+        "type": "readonly"
+      }
+    ]
+  },
+  {
+    "category": "Furniture",
+    "description": "Handmade angle shelf",
+    "id": "4",
+    "image": "image-url/product4.jpg",
+    "name": "\\SHELF/ 16",
+    "price": 350,
+    "url": "https://elibuilds-998b8-default-rtdb.firebaseio.com/4.json",
+    "customFields": [
+      {
+        "name": "Type",
+        "options": "singleStain[+50]|mixedStain[+50]|mixedStainPaint[+50]|mixedPaint[+50]|singlePaint",
+        "type": "readonly"
+      }
+    ]
+  },
+  {
+    "category": "Furniture",
+    "description": "Handmade angle shelf",
+    "id": "5",
+    "image": "image-url/product4.jpg",
+    "name": "\\SHELF/ 32",
+    "price": 550,
+    "url": "https://elibuilds-998b8-default-rtdb.firebaseio.com/4.json",
+    "customFields": [
+      {
+        "name": "Type",
+        "options": "singleStain[+50]|mixedStain[+50]|mixedStainPaint[+50]|mixedPaint[+50]|singlePaint",
+        "type": "readonly"
+      }
+    ]
+  },
+  {
+    "category": "Furniture",
+    "description": "Handmade block shelf",
+    "id": "6",
+    "image": "image-url/product4.jpg",
+    "name": "(SHELF) 16",
+    "price": 350,
+    "url": "https://elibuilds-998b8-default-rtdb.firebaseio.com/5.json",
+    "customFields": [
+      {
+        "name": "Type",
+        "options": "singleStain[+50]|mixedStain[+50]|mixedStainPaint[+50]|mixedPaint[+50]|singlePaint",
+        "type": "readonly"
+      }
+    ]
+  },
+  {
+    "category": "Furniture",
+    "description": "Handmade block shelf",
+    "id": "7",
+    "image": "image-url/product4.jpg",
+    "name": "(SHELF) 32",
+    "price": 550,
+    "url": "https://elibuilds-998b8-default-rtdb.firebaseio.com/5.json",
+    "customFields": [
+      {
+        "name": "Type",
+        "options": "singleStain[+50]|mixedStain[+50]|mixedStainPaint[+50]|mixedPaint[+50]|singlePaint",
+        "type": "readonly"
+      }
+    ]
+  }
+]
